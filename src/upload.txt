@@ -1,0 +1,4 @@
+cmd mstsc /v:20.98.112.140
+breezehumor
+Zhangyihui789,.
+存放位置 c:\inetpub\wwwroot
